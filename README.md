@@ -21,8 +21,8 @@ I used Telegram for easy usage
 Clone this repo to your computer
 
 ```bash
-  cd torder-mailing-system
-pip install requirements.txt
+cd torder-mailing-system
+pip install -r requirements.txt
 ```
 Your Outlook email needs to be enabled with SMTP Authentication for this to work.
     
